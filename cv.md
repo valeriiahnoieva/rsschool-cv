@@ -23,3 +23,12 @@ donuts.forEach(function(donut){
 console.log(donut.type + " donuts cost $" + donut.cost + " each");
 });
 ```
+## Experience
+
+## Education
+Online courses: 
+- Version Control with Git, Intro to JS, Intro to HTML and CSS, Responsive Web Design Fundamentals on Udemy. 
+- Responsive Web Design on Free Code Camp
+## Foreign laguages
+- English B2 (Upper Intermediate)
+- Deutsch A2 (Elementary)
