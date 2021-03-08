@@ -161,3 +161,22 @@ h4 {
 code {
   font-size: 16px;
 }
+.footer {
+  padding-left: 480px;
+}
+.footer li {
+  padding: 20px;
+  display: inline;
+}
+.logo {
+  padding-top: 30px;
+  width: 100px;
+  height: 70px;
+}
+a {
+color: #000000;
+}
+figcaption {
+  padding-left: 30px;
+  color: white;
+}
