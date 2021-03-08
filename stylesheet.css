@@ -176,3 +176,7 @@ code {
 a {
 color: #000000;
 }
+figcaption {
+  padding-left: 30px;
+  color: white;
+}
