@@ -7,12 +7,12 @@ body {
   background-color: #f5f7fa;
   padding: 20px;
   font-family: Montserrat;
+  justify-content: center;
 }
 main {
   background-color: #ffffff;
   display: flex;
   box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
-  justify-content: center;
 }
 .sidebar {
   width: 370px;
@@ -163,7 +163,6 @@ code {
   font-size: 16px;
 }
 .footer {
-  justify-content: center;
   position: relative;
   padding-left: 480px;
 }
