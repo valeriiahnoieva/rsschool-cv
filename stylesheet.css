@@ -163,7 +163,7 @@ code {
   font-size: 16px;
 }
 .footer {
-  display: flex;
+  position: relative;
   justify-content: center;
   padding-left: 480px;
 }
