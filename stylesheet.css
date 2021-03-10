@@ -4,6 +4,8 @@
   box-sizing: border-box;
 }
 body {
+  margin: 0 auto;
+  width: 1120px;
   background-color: #f5f7fa;
   padding: 20px;
   font-family: Montserrat;
