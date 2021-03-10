@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 body {
   background-color: #f5f7fa;
@@ -8,8 +9,7 @@ body {
   font-family: Montserrat;
 }
 main {
-  justify-content: center;
-  box-sizing: border-box;
+  display: flex;
   background-color: #ffffff;
   box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
   
@@ -163,8 +163,7 @@ code {
   font-size: 16px;
 }
 .footer {
-  justify-content: center;
-  padding-left: 470px;
+  padding-left: 480px;
 }
 .footer li {
   padding: 20px;
