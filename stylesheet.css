@@ -1,9 +1,9 @@
 * {
-  margin: 0 auto;
   padding: 0;
   box-sizing: border-box;
 }
 body {
+  margin: 0 auto;
   background-color: #f5f7fa;
   padding: 20px;
   font-family: Montserrat;
@@ -11,10 +11,7 @@ body {
 main {
   display: flex;
   background-color: #ffffff;
-  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
-  align-items: center;
-  width: 1120px;
-  
+  box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15); 
 }
 .sidebar {
   width: 370px;
