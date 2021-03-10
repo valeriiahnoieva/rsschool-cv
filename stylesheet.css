@@ -180,3 +180,6 @@ figcaption {
   padding-left: 30px;
   color: white;
 }
+main {
+  justify-content: center;
+}
