@@ -1,6 +1,6 @@
 * {
-  margin: 0;
   padding: 0;
+  margin: 0;
   box-sizing: border-box;
 }
 body {
@@ -9,8 +9,8 @@ body {
   font-family: Montserrat;
 }
 main {
-  display: flex;
   background-color: #ffffff;
+  display: flex;
   box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15); 
 }
 .sidebar {
